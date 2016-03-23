@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d660da15-9654-45a9-8c96-1b9baab3c059" name="Default" comment="" />
+    <list default="true" id="d660da15-9654-45a9-8c96-1b9baab3c059" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/binlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/binlog.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/shuc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__binlog_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/binlog.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/binlog.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/binlog_test.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/cache.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/conf.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/conf_test.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/gearman.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/driver/gearman_test.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.go" />
+    </list>
     <ignored path="binlog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,7 +48,7 @@
       <file leaf-file-name="binlog.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/driver/binlog.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28688523">
+            <state vertical-scroll-proportion="0.30973452">
               <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
                 <element signature="e#16#162#0" expanded="true" />
@@ -122,6 +145,9 @@
         <option value="Go File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -761,12 +787,12 @@
       <workItem from="1458530828401" duration="53000" />
       <workItem from="1458530882491" duration="12585000" />
       <workItem from="1458614076026" duration="9000" />
-      <workItem from="1458616062616" duration="26371000" />
+      <workItem from="1458616062616" duration="26471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39018000" />
+    <option name="totallyTimeSpent" value="39118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1440" height="800" extended-state="6" />
@@ -1122,7 +1148,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/driver/binlog.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28688523">
+        <state vertical-scroll-proportion="0.30973452">
           <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding>
             <element signature="e#16#162#0" expanded="true" />

@@ -35,6 +35,7 @@
       <root url="file://$PROJECT_DIR$/../../gopkg.in/redis.v3/.git" />
       <root url="file://$PROJECT_DIR$/../../gopkg.in/mgo.v2/.git" />
       <root url="file://$PROJECT_DIR$/../../master1-svr/.idea" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../github.com/howeyc/fsnotify/.git" />
       <root url="file://$PROJECT_DIR$/../../github.com/astaxie/beego/.git" />
       <root url="file://$PROJECT_DIR$/../.idea" />
